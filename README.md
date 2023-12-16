@@ -14,7 +14,7 @@ The following steps were taken to accomplish the project objectives:
 
 - Data Verification and Cleansing: The dataset was thoroughly reviewed for missing values and anomalies. Any identified issues were resolved to ensure data consistency and cleanliness regarding data types, formats, and values.
 - Data Modelling: The data has been segmented and structured into a fact table and dimension table to facilitate in-depth analysis
-- Dashboard Development: The pivot tables were merged into a single interactive dashboard, incorporating slicers for dynamic exploration.
+- Dashboard Development: Graphs and Visualization tables were merged into a single interactive dashboard, incorporating slicers for dynamic exploration.
 
 ## **Dashboard:**
 
